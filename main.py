@@ -9,5 +9,6 @@ def fizz():
         else:
             print(i)
 
+
 if __name__ == '__main__':
     fizz()
